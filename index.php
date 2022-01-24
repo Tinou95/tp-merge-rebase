@@ -1,5 +1,5 @@
 <?php
 
-function index() {
-    echo('index');
+function hello() {
+    echo('hello world');
 }
