@@ -2,6 +2,6 @@
 
 class MyClass {
     function index() {
-        echo('index');
+        echo('index v2');
     }
 }
