@@ -1,7 +1,5 @@
 <?php
 
-class MyClass {
-    function index() {
-        echo('index');
-    }
+function index() {
+    echo('index');
 }
